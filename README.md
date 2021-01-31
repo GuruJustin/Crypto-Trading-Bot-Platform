@@ -1,4 +1,4 @@
-# BTC Key bot (incomplete)
+## Trading bot platform just like 3commas.
 
 ## A complete MERN stack application for trading Bitcoin to CSGO keys and reverse.
 
